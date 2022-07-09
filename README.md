@@ -5,7 +5,12 @@ Here I am doing English to Bengali translation.
 
 ```
 pip install progressbar
+```
+```
 pip install googletrans==3.1.0a0
+```
 pip install pdfminer
+```
+```
 pip install tqdm
 ```
